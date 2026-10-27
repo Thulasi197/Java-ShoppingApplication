@@ -1,0 +1,13 @@
+# Java build output
+*.class
+
+# IDE settings
+.vscode/
+.idea/
+*.iml
+
+# Local credentials and secrets
+.env
+.env.*
+*.credentials
+*.secrets
